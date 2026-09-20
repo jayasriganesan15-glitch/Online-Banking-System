@@ -62,6 +62,7 @@ UPI/payment integration
 Improved encryption and password security
 
 Admin dashboard and reports
+
 CONCLUSION
 
 The Online Banking System provides essential banking services digitally.
